@@ -50,8 +50,7 @@ I'm currently diving deep into advanced architectural concepts:
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 📧 Email: dominikkepczyk@o2.pl
 - 📍 Location: Lublin, Poland (open to remote work)
 
 ## 🎯 I'm Open To
