@@ -2,11 +2,10 @@
 
 ## 🎓 About Me
 
-I'm a final-year Computer Science student passionate about backend development and building scalable, maintainable systems. Currently seeking opportunities as a **Junior Backend Developer** (remote or on-site in Lublin, Poland).
+I'm a final-year Computer Science student passionate about backend development and building scalable, maintainable systems.
 
 ## 🔭 Current Projects
 
-- **E-Learning Center** - Building a comprehensive learning platform using **Java + Spring Boot**
 - **Bachelor's Thesis** - Developing a Gift Card System utilizing object state mapping in asynchronous communication, implementing Event Sourcing and Event-Driven Architecture patterns
 
 ## 💼 What I'm Learning
@@ -20,7 +19,6 @@ I'm currently diving deep into advanced architectural concepts:
 
 ### Backend Development
 - **PHP** with **Symfony** framework (primary expertise)
-- **Java** with **Spring Boot**
 - **Databases**: MySQL, MariaDB, PostgreSQL
 - **Message Brokers**: RabbitMQ
 - **API Design**: REST API
@@ -52,14 +50,6 @@ I'm currently diving deep into advanced architectural concepts:
 
 - 📧 Email: dominikkepczyk@o2.pl
 - 📍 Location: Lublin, Poland (open to remote work)
-
-## 🎯 I'm Open To
-
-- Junior Backend Developer positions
-- Remote or on-site opportunities in Lublin
-- Projects involving PHP/Symfony
-- Collaborative teams focused on clear feedback and code reviews.
-
 ---
 
 💡 *"Always coding, always learning, always improving."*
